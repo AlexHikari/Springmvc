@@ -1,0 +1,7 @@
+1447010092069	Delete element
+1447010664970	Rename resource 'viewa'
+1447010801879	Move 'hello.jsp' to 'views'
+1447012059885	Move 'index.jsp' to 'webapp'
+1447014710706	Rename type 'HelloController'
+1447014739963	Rename type 'HelloControllerTests'
+1447015251915	Move 'messages.properties' to 'classes'
